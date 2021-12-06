@@ -9,3 +9,4 @@
 
 - 📫 How to reach me **exehsandoval@gmail.com**
 
+- I am currently studying systems, I leave my work in my repositories
