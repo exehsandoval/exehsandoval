@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm exehsandoval</h1>
-<h3 align="center">I really like creating software that can help people from Argentina</h3>
+<h3 align="center">Cybersecurity Analyst • Blue Team • SOAR | Automation • Threat Detection • Cloud Security • AI + Security Engineering | QA Tester | Founder @ Yvirrsoft</h3>
 
 - 🔭 I’m currently working on [yvirrsoftware](https://www.yvirrsoft.com/)
 
